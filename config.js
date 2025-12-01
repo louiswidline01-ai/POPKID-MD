@@ -7,16 +7,16 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
     // --- BOT CORE SETTINGS ---
-    SESSION_ID: process.env.SESSION_ID || "popkid-session",
-    PREFIX: process.env.PREFIX || ".",
-    BOT_NAME: process.env.BOT_NAME || "POPKID-MD",
+    SESSION_ID: process.env.SESSION_ID || "POPKID;;;zQcFHbKI#CCa6DuOlLGMqDwPWm11itUKKlHADiiTm8y4aoGP6XkU",
+    PREFIX: process.env.PREFIX || "🐉",
+    BOT_NAME: process.env.BOT_NAME || "—͟͞͞ᬊ᭄𝐊𝗜𝗡𝗚💀𝐃𝗔𝗥𝗞🐉𝓢𝗢𝗨𝗟𒈞꧂",
     DESCRIPTION: process.env.DESCRIPTION || "© popkid xtr bot",
     MODE: process.env.MODE || "public", // Options: public, private, inbox, group
     PUBLIC_MODE: process.env.PUBLIC_MODE || "true",
     
     // --- OWNER/DEV SETTINGS ---
-    OWNER_NUMBER: process.env.OWNER_NUMBER || "254732297194",
-    OWNER_NAME: process.env.OWNER_NAME || "POPKID",
+    OWNER_NUMBER: process.env.OWNER_NUMBER || "50947286414",
+    OWNER_NAME: process.env.OWNER_NAME || "—͟͞͞ᬊ᭄𝐊𝗜𝗡𝗚💀𝐃𝗔𝗥𝗞🐉𝓢𝗢𝗨𝗟𒈞꧂",
     DEV: process.env.DEV || "254732297194", // Developer number
 
     // --- MESSAGING & VISIBILITY ---
